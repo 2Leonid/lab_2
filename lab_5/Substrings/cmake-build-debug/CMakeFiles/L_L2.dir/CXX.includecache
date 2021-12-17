@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Prog/Lenya/Substrings/Array.h
+iostream
+-
+
+C:/Prog/Lenya/Substrings/KMP_algorithm.h
+Pair.h
+C:/Prog/Lenya/Substrings/Pair.h
+Array.h
+C:/Prog/Lenya/Substrings/Array.h
+
+C:/Prog/Lenya/Substrings/Pair.h
+tuple
+-
+
+C:/Prog/Lenya/Substrings/main.cpp
+iostream
+-
+KMP_algorithm.h
+C:/Prog/Lenya/Substrings/KMP_algorithm.h
+

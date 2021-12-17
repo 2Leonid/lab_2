@@ -1,0 +1,3 @@
+C:/Prog/Lenya/Substrings/cmake-build-debug/CMakeFiles/L_L2.dir
+C:/Prog/Lenya/Substrings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Prog/Lenya/Substrings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

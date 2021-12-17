@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Prog/Lenya/Backpack/Array.h
+iostream
+-
+
+C:/Prog/Lenya/Backpack/Tree.h
+Array.h
+C:/Prog/Lenya/Backpack/Array.h
+
+C:/Prog/Lenya/Backpack/main.cpp
+fstream
+-
+math.h
+-
+Tree.h
+C:/Prog/Lenya/Backpack/Tree.h
+
